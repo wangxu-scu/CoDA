@@ -7,6 +7,20 @@ PyTorch implementation for [Correspondence-Free Domain Alignment for Unsupervise
 
 
 
+## Datasets
+
+The directory structure of ```datasets```.
+```
+datasets
+├── OfficeHomeDataset_10072016 # 
+│     ├── Art
+│     ├── Clipart
+│     ├── Product
+│     ├── Real_World
+│     ├── ......
+```
+
+
 ## Training and Evaluation
 ```
 cd shells
