@@ -10,7 +10,7 @@ gpu_id=0
 in_domain=True
 cross_domain=True
 kmeans_all_features=True
-lambda_cross_domain=0.0
+lambda_cross_domain=0.01
 save_prefix='multi_cluster'
 
 for t in ${tasks};
