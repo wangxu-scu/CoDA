@@ -35,7 +35,7 @@ If CoDA is useful for your research, please consider citing the paper:
 @inproceedings{Wang2023CoDA,
     author = {Wang, Xu and Peng, Dezhong and Yan, Ming and Hu, Peng},
     title = {Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval},
-    year = {2022},
+    year = {2023},
     booktitle = {The Thirty-Seventh AAAI Conference on Artificial Intelligence},
     series = {AAAI 2023}
 }
