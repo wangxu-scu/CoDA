@@ -6,6 +6,14 @@ PyTorch implementation for [Correspondence-Free Domain Alignment for Unsupervise
 <img src="framework.jpeg"  width="860" height="500" />
 
 
+## Requirements
+
+- Python 3.8
+- PyTorch (1.10.0)
+- numpy
+- scikit-learn
+- faiss (1.7.2)
+
 
 ## Datasets
 
